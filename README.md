@@ -1,6 +1,6 @@
 # Machine Learning Model Comparison for Activation Energy Prediction
 
-A comprehensive comparison of 8 different machine learning regression models for predicting activation energy ($E_a$) with hyperparameter optimization and cross-validation.
+A comprehensive comparison of 8 different machine learning regression models (regression.py) for predicting activation energy ($E_a$) with hyperparameter optimization and cross-validation.
 
 ## 📊 Overview
 
