@@ -92,7 +92,7 @@ results = []
 
 # --- Hyperparameter optimization ---
 for name, model in base_models.items():
-    print(f"\n🔍 Optimizing {name} ...")
+    print(f"\n Optimizing {name} ...")
     grid = GridSearchCV(
         estimator=model,
         param_grid=param_grids[name],
