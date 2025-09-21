@@ -2,6 +2,8 @@
 
 A comprehensive comparison of 8 different machine learning regression models (regression.py) for predicting activation energy ($E_a$) with hyperparameter optimization and cross-validation.
 
+The data used in this work is published here: **Meena R,** Purcell MJ, Kluijtmans W, Zuilhof H, Bitter JH, Ouyang R, et al. Activity Descriptors of Mo2C-based Catalysts for C-OH Bond Activation. ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-pg52l
+
 ## 📊 Overview
 
 This project implements and compares multiple machine learning algorithms to predict activation energy values, featuring automated hyperparameter tuning, cross-validation, and comprehensive performance visualization.
